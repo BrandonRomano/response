@@ -6,8 +6,8 @@
   <a href="https://codecov.io/gh/BrandonRomano/response">
     <img src="https://codecov.io/gh/BrandonRomano/response/branch/master/graph/badge.svg" alt="Code Coverage" />
   </a>
-  <a href="https://travis-ci.org/BrandonRomano/response">
-    <img src="https://travis-ci.org/BrandonRomano/response.svg?branch=master" alt="Build Status"/>
+  <a href="https://travis-ci.com/BrandonRomano/response">
+    <img src="https://travis-ci.com/BrandonRomano/response.svg?branch=master" alt="Build Status"/>
   </a>
 </p>
 
