@@ -4,7 +4,7 @@
     <img src="https://goreportcard.com/badge/github.com/BrandonRomano/response" alt="Go Report Card"/>
   </a>
   <a href="https://codecov.io/gh/BrandonRomano/response">
-    <img src="https://codecov.io/gh/BrandonRomano/response/branch/master/graph/badge.svg" alt="Code Coverage" />
+    <img src="https://codecov.io/gh/BrandonRomano/response/branch/master/graph/badge.svg?token=MS67JGJ054" alt="Code Coverage" />
   </a>
   <a href="https://travis-ci.com/BrandonRomano/response">
     <img src="https://travis-ci.com/BrandonRomano/response.svg?branch=master" alt="Build Status"/>
